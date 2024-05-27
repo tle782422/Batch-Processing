@@ -1,0 +1,6 @@
+Sau khi thực hiện một số nghiên cứu về Layer 1 (Spark RDD) nằm ở thư mục test phía bên dưới thì chuyển sang
+Hoàn thành báo cáo luận văn với một thí nghiệm trên cụm Hadoop, Spark với Layer 2 (Spark DataFrame)
+Quá trình bao gồm:
++ Thiết lập docker-compose để chạy trên docker swarm
++ Lập một DAG bằng AirFlow để xử lý những Spark job trên cụm Spark
++ Trình chiếu dữ liệu trên Superset thông qua kết nối với Hive

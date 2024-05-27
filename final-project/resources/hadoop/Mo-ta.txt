@@ -1,0 +1,2 @@
+Một số thử nghiệm với Hadoop trên cụm VM (HDFS và Map-Reduce) chi tiết cấu hình VM
+https://sparkbyexamples.com/hadoop/apache-hadoop-installation/

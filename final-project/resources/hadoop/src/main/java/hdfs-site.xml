@@ -1,0 +1,14 @@
+<?xml-model version="1.0" encoding="UTF-8"?>
+<configuration>
+	<property>
+	    <name>dfs.replication</name>
+	    <value>2</value>
+	    <description>Gioi han so block luu tru</description>
+	    <final>true</final>
+	</property>
+	<property>
+	    <name>dfs.blocksize</name>
+	    <value>64m</value>
+	    <description>Gioi han size cua block</description>
+	</property>
+</configuration>

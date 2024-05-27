@@ -1,0 +1,2 @@
+Sau khi học tập và thao tác cơ bản với Hadoop Map-Reduce thì tiếp tục
+học tập thử nghiệm một số hàm về Layer 1 của Spark (Spark RDD).
