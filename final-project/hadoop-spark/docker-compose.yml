@@ -210,7 +210,7 @@ services:
     networks:
       - ingress
     ports:
-      - "8089:8089"
+      - "8089:8080"
  
   postgres:
     image: postgres:14.0
