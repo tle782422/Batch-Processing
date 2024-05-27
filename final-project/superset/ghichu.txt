@@ -1,2 +1,2 @@
 Đây chỉ là file docker-compose.yml còn cấu hình từng dịch vụ trên đó thì phải tải về từ đường link sau:
-https://github.com/apache/superset/blob/master/docker-compose.yml
+https://github.com/apache/superset
