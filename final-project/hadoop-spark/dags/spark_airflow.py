@@ -57,6 +57,4 @@ end = PythonOperator(
     dag=dag
 )
 
-start >> data_ingestion_job >> end
-
 start >> [ hive_schema_job, data_ingestion_job ] >> spark_job >> end
